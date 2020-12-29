@@ -177,7 +177,7 @@ margin-bottom: 80px;
 .banner
 {
     height: 80%;
-    background-image: url(images/banner2.jpg);
+    background-image: url(./banner2.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
